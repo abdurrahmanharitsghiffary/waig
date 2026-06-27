@@ -1,1 +1,1 @@
-# waig
+# Web AI Gateway
